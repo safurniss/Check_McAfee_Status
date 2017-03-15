@@ -29,7 +29,7 @@
 #
 # History:
 #   Version 1.x
-#     Originally created by Steve Furniss (steve@furnissathome.co.uk)
+#     Originally created by Steve Furniss
 #
 # Revision History
 # 14/03/2017	Steve Furniss		Created 1.0
